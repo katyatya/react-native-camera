@@ -1,5 +1,5 @@
 FROM node:8.11.4
-//smth v3
+//smth v3 new
 
 WORKDIR /app3/website
 
