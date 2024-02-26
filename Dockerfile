@@ -1,6 +1,6 @@
 FROM node:8.11.4
 
-WORKDIR /app22/website
+WORKDIR /app33/website
 
 EXPOSE 3000 35729
 COPY ./docs /app/docs
